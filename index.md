@@ -37,14 +37,26 @@ _Τα εργαλεία που χρησιμοποιήθηκαν για την υ�
 ### Φωτογραφίες Παραδοτέου 1
   
  ![Image of the landing page](https://github.com/p15chri2/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/blob/master/1.JPG?raw=true)
-  
- ![Image of the landing page](https://github.com/p15chri2/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/blob/master/2.JPG?raw=true)
-  
- ![Image of the landing page](https://github.com/p15chri2/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/blob/master/3.JPG?raw=true)
+ 
+ _Οι αλλαγές που έγιναν στα χρώματα_
+ 
  
  ![Image of the landing page](https://github.com/p15chri2/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/blob/master/5.JPG?raw=true)
  
+
+  
+ ![Image of the landing page](https://github.com/p15chri2/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/blob/master/2.JPG?raw=true)
+ 
+  _Zoom όταν ο κέρσορας περνά πάνω από το κείμενο_
+  
+ ![Image of the landing page](https://github.com/p15chri2/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/blob/master/3.JPG?raw=true)
+ 
+  _Zoom όταν ο κέρσορας μεταφέρεται πάνω στη γραμμ΄η εργαλειών_
+ 
+ 
  ![Image of the landing page](https://github.com/p15chri2/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/blob/master/4.JPG?raw=true)
+
+
  
  
  
@@ -55,11 +67,4 @@ _Τα εργαλεία που χρησιμοποιήθηκαν για την υ�
  <li>Πρόσθεσα επιπλέον κώδικα έτσι ώστε να εμφανίζει το ιστορικό των δωρητών όταν περνά ο κέρσορας πάνω από μια μπάλα.</li>
   </or>
   
-
-
-
-
-![picture](Capture3.PNG)
-
-![picture](Capture4.PNG)
 
