@@ -51,7 +51,7 @@ _Τα εργαλεία που χρησιμοποιήθηκαν για την υ�
   
  ![Image of the landing page](https://github.com/p15chri2/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/blob/master/3.JPG?raw=true)
  
-  _Zoom όταν ο κέρσορας μεταφέρεται πάνω στη γραμμ΄η εργαλειών_
+  _Zoom όταν ο κέρσορας μεταφέρεται πάνω στη γραμμ΄ή εργαλειών_
  
  
  
