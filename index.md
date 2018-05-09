@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Μάθημα: Τεχνολογίες Λογισμικού
 
-You can use the [editor on GitHub](https://github.com/p15chri2/p15.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Στοιχεία Φοιτητή:
+<strong>Ονοματεπώνυμο: Χρύσω Χριστοδούλου<br>
+ΑΜ: Π2015005<br>
+Εξάμηνο: ΣΤ'<br></strong>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Εργασία: Οπτικοποίηση δεδομένων χορηγιών (UK)
 
-### Markdown
+## Παραδοτέο 1
+### Link για το αποθετήριο του κώδικα: https://github.com/p15chri2/D3js-uk-political-donations/tree/gh-pages
+### Link για το εκτελέσιμο του κώδικα: https://p15chri2.github.io/D3js-uk-political-donations/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Υλοποίηση Ερωτημάτων στο Αποθετήριό μου
+<or>
+ <li>Άλλαξα στην σελίδα του αποθετηρίου μου τον σύνδεσμο της ιστοσελίδας και άλλαξα το branch σε "gh-pages".</li>
+ <li>Μετονόμασα το full-viz.html σε index.html </li>
+<li> Άλλαξα τα χρώματα στις μπάλες με τα δεδομένα, καθώς και στα αντίστοιχα 3 πεδία της ομαδοποίησης Split by party.</li>
+ <li>Έβαλα ήχο κάθε φορά που ο χρήστης της εφαρμογής κάνει κλικ σε μία από τις επιλογές/κουμπιά ομαδοποίησης των δεδομένων</li>
+ <li>Τροποποίησα τον κώδικα έτσι ώστε όταν κάνετε κλικ σε κάθε μπάλα να ανοίγει ένα νέο παράθυρο με τα αποτελέσματα της αναζήτησης στο google για τον αντίστοιχο δωρητή και όταν το ποντίκι μεταφέρεται επάνω από τις λέξεις του κειμένου να λειτουργεί και ως μεγεθυντικός φακός.</li>
+<li> Επίσης τροποποιήσα τον κώδικα της εφαρμογής έτσι ώστε όταν το ποντίκι βρίσκεται μέσα στον κύκλο κάποιου δωρητή, να ακούγεται η ονομασία του δωρητή και το ποσό της δωρεάς.</li>
+ 
+  </or>
 
-```markdown
-Syntax highlighted code block
+![picture](Capture1.PNG)
 
-# Header 1
-## Header 2
-### Header 3
+![picture](Capture2.PNG)
 
-- Bulleted
-- List
+![picture](Capture3.PNG)
 
-1. Numbered
-2. List
+![picture](Capture4.PNG)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/p15chri2/p15.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
