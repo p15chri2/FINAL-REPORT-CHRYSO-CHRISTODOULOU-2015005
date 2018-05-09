@@ -7,7 +7,6 @@
 
 ## Εργασία: Οπτικοποίηση δεδομένων χορηγιών (UK)
 
-![Image of the landing page](https://github.com/p15chri2/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/blob/master/1.JPG?raw=true)
 ### Αποθετήριο του κώδικα: _[Link](https://github.com/p15chri2/D3js-uk-political-donations/tree/gh-pages)_
 ### Εκτελέσιμος κώδικας: _[Link](https://p15chri2.github.io/D3js-uk-political-donations/)_
 ### Ιστοσελίδα τελικής αναφοράς: _[Link](https://p15chri2.github.io/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/)_
@@ -37,13 +36,21 @@ _Τα εργαλεία που χρησιμοποιήθηκαν για την υ�
 
 ### Φωτογραφίες Παραδοτέου 1
   
-  ![picture](1.PNG)
+ ![Image of the landing page](https://github.com/p15chri2/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/blob/master/1.JPG?raw=true)
   
-  ![picture](2.PNG)
+ ![Image of the landing page](https://github.com/p15chri2/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/blob/master/2.JPG?raw=true)
   
-  ![picture](3.PNG)
+ ![Image of the landing page](https://github.com/p15chri2/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/blob/master/3.JPG?raw=true)
+ 
+ ![Image of the landing page](https://github.com/p15chri2/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/blob/master/5.JPG?raw=true)
+ 
+ ![Image of the landing page](https://github.com/p15chri2/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/blob/master/4.JPG?raw=true)
+ 
+ 
+ 
   
  ## Παραδοτέο 2
+ 
   <or>
  <li>Πρόσθεσα επιπλέον κώδικα έτσι ώστε να εμφανίζει το ιστορικό των δωρητών όταν περνά ο κέρσορας πάνω από μια μπάλα.</li>
   </or>
