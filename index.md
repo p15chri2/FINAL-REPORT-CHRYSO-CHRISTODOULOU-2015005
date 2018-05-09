@@ -61,11 +61,14 @@ _Τα εργαλεία που χρησιμοποιήθηκαν για την υ�
  
  
  ## Παραδοτέο 2
+ ### Υλοποίηση Ερωτημάτων στο Αποθετήριό μου
+ 
  <or>
  <li>Πρόσθεσα επιπλέον κώδικα έτσι ώστε να εμφανίζει το ιστορικό των δωρητών όταν περνά ο κέρσορας πάνω από μια μπάλα.</li>
   </or>
   
-   ![Image of the landing page](https://github.com/p15chri2/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/blob/master/6.JPG?raw=true)
+  ### Φωτογραφία Παραδοτέου 2
+  ![Image of the landing page](https://github.com/p15chri2/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/blob/master/6.JPG?raw=true)
 
   
 
