@@ -7,7 +7,7 @@
 
 ## Εργασία: Οπτικοποίηση δεδομένων χορηγιών (UK)
 
-![Image of the landing page]()
+![Image of the landing page](https://github.com/p15chri2/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/blob/master/1.JPG?raw=true)
 ### Αποθετήριο του κώδικα: _[Link](https://github.com/p15chri2/D3js-uk-political-donations/tree/gh-pages)_
 ### Εκτελέσιμος κώδικας: _[Link](https://p15chri2.github.io/D3js-uk-political-donations/)_
 ### Ιστοσελίδα τελικής αναφοράς: _[Link](https://p15chri2.github.io/FINAL-REPORT-CHRYSO-CHRISTODOULOU-2015005/)_
